@@ -4,10 +4,10 @@
     "url": "https://tirefi.re",
     "icon": "https://favicons.githubusercontent.com/tirefi.re",
     "slug": "this-is-a-tirefire",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
@@ -15,16 +15,18 @@
     "timeWeek": 132,
     "timeMonth": 131,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 1
+    }
   },
   {
     "name": "this is an insecure tirefire",
     "url": "http://tirefi.re",
     "icon": "https://favicons.githubusercontent.com/tirefi.re",
     "slug": "this-is-an-insecure-tirefire",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 19,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   }
 ]
