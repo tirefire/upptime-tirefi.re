@@ -6,15 +6,15 @@
     "slug": "this-is-a-tirefire",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "83.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.68%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.81%",
-    "time": 343,
-    "timeDay": 3792,
-    "timeWeek": 1792,
+    "time": 341,
+    "timeDay": 95,
+    "timeWeek": 1794,
     "timeMonth": 704,
-    "timeYear": 343,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2021-03-02": 235
     }
@@ -26,15 +26,15 @@
     "slug": "this-is-an-insecure-tirefire",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "88.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.87%",
-    "time": 234,
-    "timeDay": 3972,
+    "time": 232,
+    "timeDay": 20,
     "timeWeek": 1816,
     "timeMonth": 637,
-    "timeYear": 234,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2021-03-02": 164
     }
