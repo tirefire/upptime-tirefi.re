@@ -24,17 +24,17 @@
     "url": "http://tirefi.re",
     "icon": "https://favicons.githubusercontent.com/tirefi.re",
     "slug": "this-is-an-insecure-tirefire",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 163,
-    "timeDay": 21,
-    "timeWeek": 17,
-    "timeMonth": 24,
-    "timeYear": 163,
+    "time": 241,
+    "timeDay": 5606,
+    "timeWeek": 1414,
+    "timeMonth": 373,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2021-03-02": 164
     }
