@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 310,
-    "timeDay": 1518,
-    "timeWeek": 700,
-    "timeMonth": 311,
-    "timeYear": 310,
+    "time": 309,
+    "timeDay": 216,
+    "timeWeek": 712,
+    "timeMonth": 314,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2021-03-02": 235
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/tirefi.re",
     "slug": "this-is-an-insecure-tirefire",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 272,
-    "timeDay": 3326,
+    "uptimeYear": "99.92%",
+    "time": 271,
+    "timeDay": 21,
     "timeWeek": 1522,
     "timeMonth": 496,
-    "timeYear": 272,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2021-03-02": 164
     }
