@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/tirefi.re",
     "slug": "this-is-a-tirefire",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 293,
-    "timeDay": 245,
-    "timeWeek": 193,
-    "timeMonth": 336,
-    "timeYear": 293,
+    "uptimeYear": "99.90%",
+    "time": 292,
+    "timeDay": 97,
+    "timeWeek": 183,
+    "timeMonth": 333,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2021-03-02": 235
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 242,
-    "timeDay": 83,
-    "timeWeek": 26,
-    "timeMonth": 513,
-    "timeYear": 242,
+    "time": 240,
+    "timeDay": 29,
+    "timeWeek": 27,
+    "timeMonth": 512,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2021-03-02": 164
     }
