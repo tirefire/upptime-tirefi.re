@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tirefi.re.ico",
     "slug": "this-is-a-tirefire",
     "status": "up",
-    "uptime": "84.77%",
+    "uptime": "84.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "30.19%",
+    "uptimeYear": "30.47%",
     "time": 367,
-    "timeDay": 146,
-    "timeWeek": 258,
-    "timeMonth": 471,
-    "timeYear": 452,
+    "timeDay": 151,
+    "timeWeek": 233,
+    "timeMonth": 470,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2025-10-27": 25,
       "2025-09-21": 17,
@@ -273,8 +273,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -287,10 +286,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "30.21%",
-    "time": 65,
-    "timeDay": 24,
-    "timeWeek": 69,
+    "uptimeYear": "30.48%",
+    "time": 64,
+    "timeDay": 31,
+    "timeWeek": 67,
     "timeMonth": 61,
     "timeYear": 59,
     "dailyMinutesDown": {
@@ -548,8 +547,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   }
 ]
