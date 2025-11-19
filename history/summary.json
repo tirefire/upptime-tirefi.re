@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tirefi.re.ico",
     "slug": "this-is-a-tirefire",
     "status": "up",
-    "uptime": "84.81%",
+    "uptime": "84.82%",
     "uptimeDay": "98.42%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "31.73%",
-    "time": 359,
-    "timeDay": 249,
-    "timeWeek": 220,
-    "timeMonth": 458,
+    "uptimeYear": "31.83%",
+    "time": 361,
+    "timeDay": 326,
+    "timeWeek": 231,
+    "timeMonth": 466,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2025-11-18": 23,
@@ -269,8 +269,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -279,14 +278,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tirefi.re.ico",
     "slug": "this-is-an-insecure-tirefire",
     "status": "up",
-    "uptime": "84.82%",
+    "uptime": "84.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "31.75%",
-    "time": 63,
-    "timeDay": 44,
-    "timeWeek": 42,
+    "uptimeYear": "31.85%",
+    "time": 62,
+    "timeDay": 48,
+    "timeWeek": 37,
     "timeMonth": 57,
     "timeYear": 58,
     "dailyMinutesDown": {
@@ -539,8 +538,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   }
 ]
