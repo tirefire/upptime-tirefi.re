@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.15%",
-    "time": 397,
-    "timeDay": 270,
-    "timeWeek": 238,
-    "timeMonth": 384,
-    "timeYear": 397,
+    "uptimeYear": "61.42%",
+    "time": 396,
+    "timeDay": 189,
+    "timeWeek": 234,
+    "timeMonth": 389,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2025-11-18": 23,
       "2025-10-27": 25,
@@ -161,8 +161,7 @@
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440
+      "2025-03-08": 1440
     }
   },
   {
@@ -171,16 +170,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tirefi.re.ico",
     "slug": "this-is-an-insecure-tirefire",
     "status": "up",
-    "uptime": "85.67%",
+    "uptime": "85.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.17%",
-    "time": 57,
-    "timeDay": 102,
-    "timeWeek": 43,
+    "uptimeYear": "61.44%",
+    "time": 56,
+    "timeDay": 37,
+    "timeWeek": 47,
     "timeMonth": 61,
-    "timeYear": 57,
+    "timeYear": 56,
     "dailyMinutesDown": {
       "2025-10-27": 25,
       "2025-09-10": 57,
@@ -323,8 +322,7 @@
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440
+      "2025-03-08": 1440
     }
   }
 ]
