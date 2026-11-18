@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 248,
-    "timeWeek": 260,
-    "timeMonth": 292,
+    "time": 319,
+    "timeDay": 59,
+    "timeWeek": 221,
+    "timeMonth": 286,
     "timeYear": 278,
-    "dailyMinutesDown": {
-      "2025-11-18": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "this is an insecure tirefire",
@@ -25,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tirefi.re.ico",
     "slug": "this-is-an-insecure-tirefire",
     "status": "up",
-    "uptime": "87.36%",
+    "uptime": "87.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 130,
-    "timeWeek": 165,
-    "timeMonth": 149,
+    "timeDay": 41,
+    "timeWeek": 139,
+    "timeMonth": 143,
     "timeYear": 88,
     "dailyMinutesDown": {}
   }
